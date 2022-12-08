@@ -1,0 +1,6 @@
+# https://github.com/gakonst/foundry/blob/master/config/README.md
+[profile.default]
+optimizer = true
+optimizer_runs = 1000000
+solc = "0.8.15"
+gas_reports = ['*']

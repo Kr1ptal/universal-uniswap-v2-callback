@@ -1,0 +1,4 @@
+UniswapV2CallbackHandlerTest:testOriginal() (gas: 167525)
+UniswapV2CallbackHandlerTest:testUniversal() (gas: 167526)
+UniswapV2CallbackHandlerTest:testUniversalMalformedInput() (gas: 15687)
+UniswapV2CallbackHandlerTest:testUniversalRandomData(uint256,uint256,bytes) (runs: 256, μ: 117277, ~: 107692)
